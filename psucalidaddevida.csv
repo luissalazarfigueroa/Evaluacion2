@@ -1,43 +1,43 @@
-comuna,puntajepsu,calidaddevida
-Las Condes,606,1
-Vitacura,616,2
-Providencia,595,3
-La Reina,576,4
-Lo Barnechea,606,5
-Ñuñoa,565,6
-Santiago,516,7
-Colina,497,8
-Paine,485,9
-Talagante,498,10
-Huechuraba,525,11
-Maipú,511,12
-San Miguel,528,13
-La Florida,513,14
-Estación Central,504,15
-Quilicura,503,16
-Peñaflor,494,17
-Cerrillos,493,18
-Pudahuel,501,19
-Macul,522,20
-Recoleta,409,21
-Padre Hurtado,484,22
-Melipilla,475,23
-Puente Alto,502,24
-Lampa,482,25
-Conchalí,491,26
-La Cisterna,509,27
-Independencia,508,28
-El Bosque,487,29
-Buin,485,30
-San Bernardo,488,31
-Peñalolén,522,32
-La Granja,486,33
-Quinta Normal,498,34
-Cerro Navia,470,35
-La Pintana,465,36
-San Ramón,475,37
-Lo Prado,492,38
-Renca,479,39
-Pedro Aguirre Cerda,491,40
-Lo Espejo,470,41
-San Joaquín,493,42
+comuna,puntajepsu,calidaddevida,rindieron,matriculados,sociocultural
+Las Condes,606,70.86,8640,40063,42.25 
+Vitacura,616,65.43,2680,20280,43.58 
+Providencia,595,71.40,2782,31493,60.90 
+La Reina,576,60.23,3430,22057,38.73
+Lo Barnechea,606,63.44,4058,21.949,34.75
+Ñuñoa,565,59.89,5670,38710,45.76
+Santiago,516,58.55,8086,88675,53.76 
+Colina,497,39.18,3448,36142,40.33
+Paine,485,33.55,1820,14505,40.19
+Talagante,498,31.67,2370,21111,50.83
+Huechuraba,525,42.74,2872,14380,33.00 
+Maipú,511,48.36,19434,103768,46.13
+San Miguel,528,60.81,3168,25346,46.37
+La Florida,513,48.34,12984,80665,38.96
+Estación Central,504,48.17,3358,23609,40.58 
+Quilicura,503,46.18,6730,42104,34.38 
+Peñaflor,494,32.55,2568,17202,37.15
+Cerrillos,493,45.32,2240,13762,39.67
+Pudahuel,501,41.77,6900,34866,38.71
+Macul,522,50.19,3314,16282,43.42
+Recoleta,490,39.27,3592,32112,38.55
+Padre Hurtado,484,40.99,1576,12880,44.24 
+Melipilla,475,36.51,3698,26807,44.54
+Puente Alto,502,40.60,18148,110110,38.62
+Lampa,482,44.70,2086,18102,36.02
+Conchalí,491,40.54,3476,21186,44.76 
+La Cisterna,509,42.09,2914,28186,49.11
+Independencia,508,42.66,1992,18734,48.04 
+El Bosque,487,38.43,4786,39532,46.03
+Buin,485,35.81,2570,20472,42.83
+San Bernardo,488,39.31,8512,61504,44.70 
+Peñalolén,522,46.16,8094,38456,38.20
+La Granja,486,45.10,3380,20370,41.76
+Quinta Normal,498,44.76,3170,26046,40.17
+Cerro Navia,470,36.33,3188,17809,47.67
+La Pintana,465,31.14,4570,38216,41.79
+San Ramón,475,36.80,2414,15888,36.07
+Lo Prado,492,42.03,2594,12355,39.11 
+Renca,479,39.57,3602,25502,44.32
+Pedro Aguirre Cerda,491,34.24,2890,15915,38.23
+Lo Espejo,470,39.09,2692,12317,41.22 
+San Joaquín,493,46.58,2704,11179,39.56
